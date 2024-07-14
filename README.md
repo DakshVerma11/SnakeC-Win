@@ -20,9 +20,7 @@ A classic Snake game implemented in C++. Navigate the snake to consume fruit, av
 
 ## Demo
 
-
-https://github.com/user-attachments/assets/14edc7de-6916-48d9-b240-b0efe2110506
-
+![SnakeGame-GitHub-min (1)](https://github.com/user-attachments/assets/059177d6-476b-4dbc-be1f-aac921984a96)
 
 
 ## Requirements
